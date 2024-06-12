@@ -1,0 +1,5 @@
+keyboard
+id
+lesson
+reyting
+manager
